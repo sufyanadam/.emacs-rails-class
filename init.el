@@ -64,9 +64,7 @@
 (use-package personal-keybindings)
 
 ;; Packages
-(use-package evil
-  :config
-  (evil-mode))
+(use-package evil)
 
 (use-package zoom-frm
   :config
